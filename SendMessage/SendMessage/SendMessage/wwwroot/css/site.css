@@ -20,3 +20,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.control-group {
+    padding-top: 40px;
+}
+label{
+    width:50px
+}
+#signalr-message{
+    height:calc(100vh-20px)
+}

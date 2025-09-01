@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\wwwroot\\lib\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\wwwroot\\lib\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SendMessage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

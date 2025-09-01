@@ -27,9 +27,11 @@ C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SendMessage.props
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SendMessage.props
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\SendMessage.dll
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\refint\SendMessage.dll
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\SendMessage.pdb
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\SendMessage.genruntimeconfig.cache
 C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\ref\SendMessage.dll
+C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\bin\Debug\net8.0\package-lock.json
+C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\bin\Debug\net8.0\package.json
+C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
