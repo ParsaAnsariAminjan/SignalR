@@ -54,8 +54,7 @@
               "RelativeToolTip": "SendMessage\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-01T19:41:49.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T19:41:49.843Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "SendMessage\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T19:12:45.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T19:12:45.583Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "SendMessage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T18:56:19.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T18:56:19.995Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "SendMessage\\IMainHubClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T18:26:30.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T18:26:30.571Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "SendMessage\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T17:46:33.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T17:46:33.851Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "SendMessage\\Hobs\\MainHob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T17:25:44.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T17:25:44.264Z"
             }
           ]
         }

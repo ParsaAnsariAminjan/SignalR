@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|solutionrelative:sendmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|solutionrelative:sendmessage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|solutionrelative:sendmessage\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|solutionrelative:sendmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|solutionrelative:sendmessage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B6A1445-B770-47BF-917C-0088696EF0CD}|SendMessage\\SendMessage.csproj|c:\\users\\parsa\\desktop\\projects\\signalr\\sendmessage\\sendmessage\\sendmessage\\hobs\\mainhob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,15 +42,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SendMessage\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "SendMessage\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:23:43.106Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "SendMessage\\wwwroot\\css\\site.css",
@@ -58,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "SendMessage\\wwwroot\\js\\site.js",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SendMessage\\Views\\Home\\Index.cshtml",
@@ -79,11 +96,12 @@
               "RelativeToolTip": "SendMessage\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T19:12:45.583Z"
+              "WhenOpened": "2025-09-01T19:12:45.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SendMessage\\Views\\Shared\\_Layout.cshtml",
@@ -95,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IMainHubClient.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\IMainHubClient.cs",
               "RelativeDocumentMoniker": "SendMessage\\IMainHubClient.cs",
@@ -107,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Program.cs",
               "RelativeDocumentMoniker": "SendMessage\\Program.cs",
@@ -119,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainHob.cs",
               "DocumentMoniker": "C:\\Users\\Parsa\\Desktop\\Projects\\SignalR\\SendMessage\\SendMessage\\SendMessage\\Hobs\\MainHob.cs",
               "RelativeDocumentMoniker": "SendMessage\\Hobs\\MainHob.cs",

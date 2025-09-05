@@ -1,2 +1,0 @@
-C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\wwwroot\lib\signalr.js.map
-C:\Users\Parsa\Desktop\Projects\SignalR\SendMessage\SendMessage\SendMessage\wwwroot\lib\signalr.min.js.map
